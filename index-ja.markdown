@@ -5,5 +5,5 @@
 layout: home
 lang: ja
 list_title: 最近の投稿
-last_updated: 2023-11-19
+last_modified:
 ---
