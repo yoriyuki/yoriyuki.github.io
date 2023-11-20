@@ -18,21 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Code and Contemplation
+display_title:
+  en: Code and Contemplation
+  ja: コードと考察
+
+email: pickle_grizzly0d@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Logic, Mathematics, Computer Science and occasionally Philosophy
+display_description:
+  en: Logic, Mathematics, Computer Science and occasionally Philosophy
+  ja: 論理とか数学とかコンピューターとちょっと哲学
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: https://yoriyuki.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +58,58 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+- scope:
+    path: '_posts/en'
+    type: 'posts'
+  values:
+#    permalink: 'news/:title' 
+    lang: en
+- scope:
+    path: 'pages/en'
+    type: 'pages'
+  values:
+    lang: en
+- scope:
+    path: '_posts/ja'
+    type: 'posts'
+  values:
+    lang: ja
+- scope:
+    path: '_pages/ja'
+    type: 'pages'
+  values:
+    lang: ja
+
+header_pages:
+  - papers.md
+  - papers-ja.md
+  - softwares.md
+  - softwares-ja.md
+  - essays.md
+  - essays-ja.md
+  - about.markdown
+  - about-ja.md
+
+datetime_format: '%Y-%m-%d %H:%M'
+
+minima.date_format: '%Y-%m-%d'
+
+last_updated:
+  en: 'Last updated'
+  ja: '最終更新'
+
+landing_page:
+  en: '/'
+  ja: '/index-ja.html'
+
+mastodon: 
+  - 
+    instance: 'mathstodon.xyz'
+    username: 'yoriyuki'
+  - 
+    instance: 'mathstodon.social'
+    username: 'yoriyuki'
+
+github_username: 'yoriyuki'
