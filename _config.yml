@@ -96,8 +96,8 @@ datetime_format: '%Y-%m-%d %H:%M'
 
 minima.date_format: '%Y-%m-%d'
 
-last_updated:
-  en: 'Last updated'
+last_modified:
+  en: 'Last modified'
   ja: '最終更新'
 
 landing_page:

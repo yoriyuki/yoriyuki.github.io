@@ -28,10 +28,10 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.display_description[page.lang] | escape -}}</p>
-        {%- if page.last_updated -%}
-        {%- assign mdate = page.last_updated | site.datetime_format -%}
+        {%- if page.last_modified -%}
+        {%- assign mdate = page.last_modified | site.datetime_format -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          <p>{{ site.last_updated[page.lang]}}: {{ mdate }}</p>
+          <p>{{ site.last_modified[page.lang]}}: {{ mdate }}</p>
         </time>
         {%- endif -%}
         </div>
