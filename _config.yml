@@ -83,13 +83,13 @@ defaults:
     lang: ja
 
 header_pages:
-  - papers.md
+  - papers-en.md
   - papers-ja.md
-  - softwares.md
-  - softwares-ja.md
+  - software-en.md
+  - software-ja.md
   - essays.md
   - essays-ja.md
-  - about.markdown
+  - about.md
   - about-ja.md
 
 datetime_format: '%Y-%m-%d %H:%M'
@@ -101,7 +101,7 @@ last_modified:
   ja: '最終更新'
 
 landing_page:
-  en: '/'
+  en: '/index.html'
   ja: '/index-ja.html'
 
 mastodon: 

@@ -11,4 +11,4 @@ list_title: Recent post
 
 Hi, I'm a computer scientist working a certain government institute in Japan.
 Here, I talk about mathematics, logic, computer scientist and occasionally philosophy.
-Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.markdown %}) if you can read Japanese.
+Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.md %}) if you can read Japanese.

@@ -4,7 +4,8 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ landing_page[page.lang] | relative_url }}">{{ site.display_title[page.lang] | escape }}</a>
+    <a class="site-title" rel="author" href="{{ site.landing_page[page.lang] | relative_url }}">{{ site.display_title[page.lang] | escape }}</a>
+    <!-- <a class="site-title" rel="author" href="http://127.0.0.1:4000/index-ja.html">{{ site.display_title[page.lang] | escape }}</a> -->
 
     {%- if page_paths -%}
       <nav class="site-nav">
