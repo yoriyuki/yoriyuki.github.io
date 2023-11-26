@@ -105,11 +105,11 @@ landing_page:
   ja: '/index-ja.html'
 
 mastodon: 
-  - 
-    instance: 'mathstodon.xyz'
-    username: 'yoriyuki'
-  - 
-    instance: 'mathstodon.social'
-    username: 'yoriyuki'
+  en:
+    - instance: 'mathstodon.xyz'
+      username: 'yoriyuki'
+  ja:
+    - instance: 'mathstodon.social'
+      username: 'yoriyuki'
 
 github_username: 'yoriyuki'
