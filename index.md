@@ -7,7 +7,7 @@ lang: en
 list_title: Recent post
 ---
 
-# Introduction
+## Introduction
 
 Hi, I'm a computer scientist working a certain government institute in Japan.
 Here, I talk about mathematics, logic, computer scientist and occasionally philosophy.
