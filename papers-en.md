@@ -1,7 +1,7 @@
 ---
 title: Academic papers
 lang: en
-last_modified:
+last_modified: 2023-11-29 00:03:33 UTC
 layout: page
 ---
 ## Google Scholar and DBLP
@@ -14,15 +14,15 @@ layout: page
 
 ### Philosophy of Logic
 
-- Suzuki, U. & Yamagata. Y(2023). Notion of validity for the bilateral classical logic. arXiv preprint arXiv:2310.13376. [プレプリント](https://arxiv.org/abs/2310.13376)
+- Suzuki, U. & Yamagata. Y(2023). Notion of validity for the bilateral classical logic. arXiv preprint arXiv:2310.13376. [prepring](https://arxiv.org/abs/2310.13376)
 
 ### Stochastic analysis, formal method
 
-- Ikeda, M., Yamagata, Y. & Kihara, T(2023).  On the Metric Temporal Logic for Continuous Stochastic Processes. arXiv preprint 	arXiv:2308.00984. [プレプリント](https://arxiv.org/abs/2308.00984)
+- Ikeda, M., Yamagata, Y. & Kihara, T(2023).  On the Metric Temporal Logic for Continuous Stochastic Processes. arXiv preprint 	arXiv:2308.00984. [preprint](https://arxiv.org/abs/2308.00984)
 
 ### COVID19
 
-- Yamagata, Y., Takami, S., Yamazaki, K., Nakaya, T., & Onishi, M.(2022). Individual-based epidemic model of COVID19 using location data. In Big Data Analytics for Health and Medicine:[著者版](paper/covid19.pdf)
+- Yamagata, Y., Takami, S., Yamazaki, K., Nakaya, T., & Onishi, M.(2022). Individual-based epidemic model of COVID19 using location data. In Big Data Analytics for Health and Medicine:[author version](paper/covid19.pdf)
 
 
 ### Bounded arithmetic
