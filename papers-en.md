@@ -1,7 +1,7 @@
 ---
 title: Academic papers
 lang: en
-last_modified: 2023-11-29 00:03:33 UTC
+last_modified: 2023-11-29 08:40:53 UTC
 layout: page
 ---
 ## Google Scholar and DBLP
@@ -14,7 +14,7 @@ layout: page
 
 ### Philosophy of Logic
 
-- Suzuki, U. & Yamagata. Y(2023). Notion of validity for the bilateral classical logic. arXiv preprint arXiv:2310.13376. [prepring](https://arxiv.org/abs/2310.13376)
+- Suzuki, U. & Yamagata. Y(2023). Notion of validity for the bilateral classical logic. arXiv preprint arXiv:2310.13376. [preprint](https://arxiv.org/abs/2310.13376)
 
 ### Stochastic analysis, formal method
 
