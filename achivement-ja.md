@@ -2,7 +2,7 @@
 title: 業績リスト
 layout: page
 lang: ja
-last_modified:
+last_modified: 2024-01-29 14:35:04 UTC
 ---
 ## 目次
 
@@ -16,6 +16,7 @@ last_modified:
 
 ## 論文・会議発表
 
+1. Individual-based epidemiological model of COVID19 using location data, Yoriyuki Yamagata, Shunki Takami, Keisuke Yamazaki, Tomoki Nakaya, Masaki Onishi, 2022 IEEE International Conference on Big Data (Big Data)  2022年12月17日. 
 1. Assurance Carrying Code for Software Supply Chain., Yutaka Matsuno, Yoriyuki Yamagata, Hideaki Nishihara, Yuichiro Hosokawa, ISSRE Workshops  276-277 2021年. 査読有り
 1. ARCH-COMP 2021 Category Report: Falsification with Validation of Results., Gidon Ernst, Paolo Arcaini, Ismail Bennani, Aniruddh Chandratre, Alexandre Donzé, Georgios Fainekos, Goran Frehse, Khouloud Gaaloul, Jun Inoue 0001, Tanmay Khandait, Logan Mathesen, Claudio Menghi, Giulia Pedrielli, Marc Pouzet, Masaki Waga, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH@ADHS  133-152 2021年. 
 1. Algebraic Approach for Confidence Evaluation of Assurance Cases., Yoriyuki Yamagata, Yutaka Matsuno, Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods(ICFEM)  318-327 2020年. 査読有り
@@ -35,14 +36,6 @@ last_modified:
 1. Domain-specific languages with scala, Cyrille Artho, Klaus Havelund, Rahul Kumar, Yoriyuki Yamagata, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 9407 1-16 2015年. 査読有り
 1. A formal semantics of extended hierarchical state transition matrices using CSP#, Yoriyuki Yamagata, Weiqiang Kong, Akira Fukuda, Nguyen Van Tang, Hitoshi Ohsaki, Kenji Taguchi, FORMAL ASPECTS OF COMPUTING 26(5) 943-962 2014年9月. 査読有り
 1. Evaluation of a resilience embedded system using probabilisticmodel-checking, Ling Fang, Yoriyuki Yamagata, Yutaka Oiwa, Electronic Proceedings in Theoretical Computer Science, EPTCS 150 35-49 2014年5月3日. 査読有り
-1. With an Open Mind: How to Write Good Models, Cyrille Artho, Koji Hayamizu, Rudolf Ramler, Yoriyuki Yamagata, Communications in Computer and Information Science 419 3-18 2014年. 査読有り
-1. On Accelerating SMT-based Bounded Model Checking of HSTM Designs, Weiqiang Kong, Leyuan Liu, Yoriyuki Yamagata, Kenji Taguchi, Hitoshi Ohsaki, Akira Fukuda, 2012 19TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE (APSEC), VOL 1 1 614-623 2012年. 査読有り
-1. Formal semantics of extended hierarchical state transition matrix by CSP., Yoriyuki Yamagata, Weiqiang Kong, Akira Fukuda, Nguyen Van Tang, Hitoshi Ohsaki, Kenji Taguchi, ACM SIGSOFT Software Engineering Notes 37(4) 1-8 2012年. 査読有り
-1. BOUNDED ARITHMETIC IN FREE LOGIC, Yoriyuki Yamagata, LOGICAL METHODS IN COMPUTER SCIENCE 8(3) 2012年. 査読有り
-1. A sequent calculus for limit computable mathematics, Stefano Berardi, Yoriyuki Yamagata, ANNALS OF PURE AND APPLIED LOGIC 153(1-3) 111-126 2008年4月. 査読有り
-1. Strong normalization of the second-order symmetric lambda mu-calculus, Y Yamagata, INFORMATION AND COMPUTATION 193(1) 1-20 2004年8月. 査読有り
-1. Strong normalization of a symmetric lambda calculus for second-order classical logic, Y Yamagata, ARCHIVE FOR MATHEMATICAL LOGIC 41(1) 91-99 2002年1月. 査読有り
-1. Strong Normalization of Second Order Symmetric Lambda-mu Calculus., Yoriyuki Yamagata, Theoretical Aspects of Computer Software, 4th International Symposium, TACS 2001, Sendai, Japan, October 29-31, 2001, Proceedings  459-467 2001年. 査読有り
 
 ## 競争的資金等の研究課題
 
