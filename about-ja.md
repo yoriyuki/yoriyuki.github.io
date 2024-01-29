@@ -2,12 +2,16 @@
 lang: ja
 layout: page
 title: 自己紹介
-last_modified: 2024-01-28 10:07:43 UTC
+last_modified: 2024-01-29 14:49:27 UTC
 ---
 某政府系研究機関で計算機科学を研究しています
 
 ## 個人データ
 - [履歴書]({{ site.baseurl }}{% link cv-ja.md %})
+- [Google Scholar](http://scholar.google.co.jp/citations?user=lL_rG2gAAAAJ&hl=ja&oi=ao)
+- [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamagata:Yoriyuki)
+- [Researchmap](https://researchmap.jp/yoriyuki)
+- [Orchid](https://orcid.org/0000-0003-2096-677X)
 
 ## コンテンツ
 - [英語版ホームページ]({{ site.baseurl }}{% link index.md %})
