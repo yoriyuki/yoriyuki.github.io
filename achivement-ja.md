@@ -2,7 +2,7 @@
 title: 業績リスト
 layout: page
 lang: ja
-last_modified: 2024-01-29 14:35:04 UTC
+last_modified: 2024-01-29 14:43:22 UTC
 ---
 ## 目次
 
@@ -16,25 +16,25 @@ last_modified: 2024-01-29 14:35:04 UTC
 
 ## 論文・会議発表
 
-1. Individual-based epidemiological model of COVID19 using location data, Yoriyuki Yamagata, Shunki Takami, Keisuke Yamazaki, Tomoki Nakaya, Masaki Onishi, 2022 IEEE International Conference on Big Data (Big Data)  2022年12月17日. 
-1. Assurance Carrying Code for Software Supply Chain., Yutaka Matsuno, Yoriyuki Yamagata, Hideaki Nishihara, Yuichiro Hosokawa, ISSRE Workshops  276-277 2021年. 査読有り
-1. ARCH-COMP 2021 Category Report: Falsification with Validation of Results., Gidon Ernst, Paolo Arcaini, Ismail Bennani, Aniruddh Chandratre, Alexandre Donzé, Georgios Fainekos, Goran Frehse, Khouloud Gaaloul, Jun Inoue 0001, Tanmay Khandait, Logan Mathesen, Claudio Menghi, Giulia Pedrielli, Marc Pouzet, Masaki Waga, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH@ADHS  133-152 2021年. 
-1. Algebraic Approach for Confidence Evaluation of Assurance Cases., Yoriyuki Yamagata, Yutaka Matsuno, Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods(ICFEM)  318-327 2020年. 査読有り
-1. ARCH-COMP 2020 Category Report: Falsification., Gidon Ernst, Paolo Arcaini, Ismail Bennani, Alexandre Donzé, Georgios Fainekos, Goran Frehse, Logan Mathesen, Claudio Menghi, Giulia Pedrielli, Marc Pouzet, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH20. 7th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH20)(ARCH)  140-152 2020年. 
-1. Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning, Yoriyuki Yamagata, Shuang Liu, Takumi Akazaki, Yihai Duan, Jianye Hao, IEEE Transactions on Software Engineering abs/1805.00200 1-1 2020年. 査読有り
-1. ARCH-COMP 2019 Category Report: Falsification., Gidon Ernst, Paolo Arcaini, Alexandre Donzé, Georgios Fainekos, Logan Mathesen, Giulia Pedrielli, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH19. 6th International Workshop on Applied Verification of Continuous and Hybrid Systemsi(ARCH@CPSIoTWeek)  129-140 2019年. 
-1. CONSISTENCY PROOF OF A FRAGMENT OF PV WITH SUBSTITUTION IN BOUNDED ARITHMETIC, YORIYUKI YAMAGATA, The Journal of Symbolic Logic 83(3) 1063-1090 2018年9月. 査読有り
-1. Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning., Takumi Akazaki, Shuang Liu, Yoriyuki Yamagata, Yihai Duan, Jianye Hao, Formal Methods - 22nd International Symposium, FM 2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 15-17, 2018, Proceedings  456-465 2018年. 査読有り
-1. Anomaly detection for a water treatment system using unsupervised machine learning, Jun Inoue, Yoriyuki Yamagata, Yuqi Chen, Christopher M. Poskitt, Jun Sun, IEEE International Conference on Data Mining Workshops, ICDMW 2017- 1058-1065 2017年12月15日. 査読有り
-1. Log-based anomaly detection of CPS using a statistical method, Yoshiyuki Harada, Yoriyuki Yamagata, Osamu Mizuno, Eun-Hye Choi, Proceedings - 8th IEEE International Workshop on Empirical Software Engineering in Practice, IWESEP 2017 abs/1701.03249 1-6 2017年5月10日. 査読有り
-1. Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning., Jun Inoue 0001, Yoriyuki Yamagata, Yuqi Chen 0001, Christopher M. Poskitt, Jun Sun 0001, CoRR abs/1709.05342 2017年. 
-1. Operational semantics of process monitors, Jun Inoue, Yoriyuki Yamagata, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 10548 403-409 2017年. 査読有り
-1. Java Pathfinder on Android Devices., Alexander Kohan, Mitsuharu Yamamoto,Cyrille Artho, Yoriyuki Yamagata, Lei Ma, Masami Hagiya, Yoshinori Tanabe, ACM SIGSOFT Software Engineering Notes 41(6) 1-5 2016年. 
-1. Runtime Monitoring for Concurrent Systems, Yoriyuki Yamagata, Cyrille Artho, Masami Hagiya, Jun Inoue, Lei Ma, Yoshinori Tanabe, Mitsuharu Yamamoto, RUNTIME VERIFICATION, (RV 2016) 10012 386-403 2016年. 査読有り
-1. Cardinality of UDP Transmission Outcomes, Franz Weitl, Nazim Sebih, Cyrille Artho, Masami Hagiya, Yoshinori Tanabe, Yoriyuki Yamagata, Mitsuharu Yamamoto, DEPENDABLE SOFTWARE ENGINEERING: THEORIES, TOOLS, AND APPLICATIONS, SETTA 2015 9409 120-134 2015年. 査読有り
-1. Model-based Testing of Stateful APIs with Modbat, Cyrille Artho, Martina Seidl, Quentin Gros, Eun-Hye Choi, Takashi Kitamura, Akira Mori, Rudolf Ramler, Yoriyuki Yamagata, 2015 30TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE)  858-863 2015年. 査読有り
-1. Domain-specific languages with scala, Cyrille Artho, Klaus Havelund, Rahul Kumar, Yoriyuki Yamagata, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 9407 1-16 2015年. 査読有り
-1. A formal semantics of extended hierarchical state transition matrices using CSP#, Yoriyuki Yamagata, Weiqiang Kong, Akira Fukuda, Nguyen Van Tang, Hitoshi Ohsaki, Kenji Taguchi, FORMAL ASPECTS OF COMPUTING 26(5) 943-962 2014年9月. 査読有り
+1. Individual-based epidemiological model of COVID19 using location data, Yoriyuki Yamagata, Shunki Takami, Keisuke Yamazaki, Tomoki Nakaya, Masaki Onishi, 2022 IEEE International Conference on Big Data (Big Data)  2022年12月17日. 査読有り 
+1. Assurance Carrying Code for Software Supply Chain., Yutaka Matsuno, Yoriyuki Yamagata, Hideaki Nishihara, Yuichiro Hosokawa, ISSRE Workshops  276-277 2021年. 査読有り 
+1. ARCH-COMP 2021 Category Report: Falsification with Validation of Results., Gidon Ernst, Paolo Arcaini, Ismail Bennani, Aniruddh Chandratre, Alexandre Donzé, Georgios Fainekos, Goran Frehse, Khouloud Gaaloul, Jun Inoue 0001, Tanmay Khandait, Logan Mathesen, Claudio Menghi, Giulia Pedrielli, Marc Pouzet, Masaki Waga, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH@ADHS  133-152 2021年.  招待有り
+1. Algebraic Approach for Confidence Evaluation of Assurance Cases., Yoriyuki Yamagata, Yutaka Matsuno, Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods(ICFEM)  318-327 2020年. 査読有り 
+1. ARCH-COMP 2020 Category Report: Falsification., Gidon Ernst, Paolo Arcaini, Ismail Bennani, Alexandre Donzé, Georgios Fainekos, Goran Frehse, Logan Mathesen, Claudio Menghi, Giulia Pedrielli, Marc Pouzet, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH20. 7th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH20)(ARCH)  140-152 2020年.  招待有り
+1. Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning, Yoriyuki Yamagata, Shuang Liu, Takumi Akazaki, Yihai Duan, Jianye Hao, IEEE Transactions on Software Engineering abs/1805.00200 1-1 2020年. 査読有り 
+1. ARCH-COMP 2019 Category Report: Falsification., Gidon Ernst, Paolo Arcaini, Alexandre Donzé, Georgios Fainekos, Logan Mathesen, Giulia Pedrielli, Shakiba Yaghoubi, Yoriyuki Yamagata, Zhenya Zhang, ARCH19. 6th International Workshop on Applied Verification of Continuous and Hybrid Systemsi(ARCH@CPSIoTWeek)  129-140 2019年.  招待有り
+1. CONSISTENCY PROOF OF A FRAGMENT OF PV WITH SUBSTITUTION IN BOUNDED ARITHMETIC, YORIYUKI YAMAGATA, The Journal of Symbolic Logic 83(3) 1063-1090 2018年9月. 査読有り 
+1. Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning., Takumi Akazaki, Shuang Liu, Yoriyuki Yamagata, Yihai Duan, Jianye Hao, Formal Methods - 22nd International Symposium, FM 2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 15-17, 2018, Proceedings  456-465 2018年. 査読有り 
+1. Anomaly detection for a water treatment system using unsupervised machine learning, Jun Inoue, Yoriyuki Yamagata, Yuqi Chen, Christopher M. Poskitt, Jun Sun, IEEE International Conference on Data Mining Workshops, ICDMW 2017- 1058-1065 2017年12月15日. 査読有り 
+1. Log-based anomaly detection of CPS using a statistical method, Yoshiyuki Harada, Yoriyuki Yamagata, Osamu Mizuno, Eun-Hye Choi, Proceedings - 8th IEEE International Workshop on Empirical Software Engineering in Practice, IWESEP 2017 abs/1701.03249 1-6 2017年5月10日. 査読有り 
+1. Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning., Jun Inoue 0001, Yoriyuki Yamagata, Yuqi Chen 0001, Christopher M. Poskitt, Jun Sun 0001, CoRR abs/1709.05342 2017年.  
+1. Operational semantics of process monitors, Jun Inoue, Yoriyuki Yamagata, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 10548 403-409 2017年. 査読有り 
+1. Java Pathfinder on Android Devices., Alexander Kohan, Mitsuharu Yamamoto,Cyrille Artho, Yoriyuki Yamagata, Lei Ma, Masami Hagiya, Yoshinori Tanabe, ACM SIGSOFT Software Engineering Notes 41(6) 1-5 2016年.  
+1. Runtime Monitoring for Concurrent Systems, Yoriyuki Yamagata, Cyrille Artho, Masami Hagiya, Jun Inoue, Lei Ma, Yoshinori Tanabe, Mitsuharu Yamamoto, RUNTIME VERIFICATION, (RV 2016) 10012 386-403 2016年. 査読有り 
+1. Cardinality of UDP Transmission Outcomes, Franz Weitl, Nazim Sebih, Cyrille Artho, Masami Hagiya, Yoshinori Tanabe, Yoriyuki Yamagata, Mitsuharu Yamamoto, DEPENDABLE SOFTWARE ENGINEERING: THEORIES, TOOLS, AND APPLICATIONS, SETTA 2015 9409 120-134 2015年. 査読有り 
+1. Model-based Testing of Stateful APIs with Modbat, Cyrille Artho, Martina Seidl, Quentin Gros, Eun-Hye Choi, Takashi Kitamura, Akira Mori, Rudolf Ramler, Yoriyuki Yamagata, 2015 30TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE)  858-863 2015年. 査読有り 
+1. Domain-specific languages with scala, Cyrille Artho, Klaus Havelund, Rahul Kumar, Yoriyuki Yamagata, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 9407 1-16 2015年. 査読有り 
+1. A formal semantics of extended hierarchical state transition matrices using CSP#, Yoriyuki Yamagata, Weiqiang Kong, Akira Fukuda, Nguyen Van Tang, Hitoshi Ohsaki, Kenji Taguchi, FORMAL ASPECTS OF COMPUTING 26(5) 943-962 2014年9月. 査読有り 
 1. Evaluation of a resilience embedded system using probabilisticmodel-checking, Ling Fang, Yoriyuki Yamagata, Yutaka Oiwa, Electronic Proceedings in Theoretical Computer Science, EPTCS 150 35-49 2014年5月3日. 査読有り
 
 ## 競争的資金等の研究課題
