@@ -2,7 +2,7 @@
 lang: ja
 layout: page
 title: 自己紹介
-last_modified: 2024-01-29 16:08:29 UTC
+last_modified: 2024-01-30 15:02:30 UTC
 ---
 
 ## 個人的なこと
@@ -24,6 +24,7 @@ last_modified: 2024-01-29 16:08:29 UTC
 某政府系研究機関で計算機科学を研究しています
 
 - [履歴書]({{ site.baseurl }}{% link cv-ja.md %})
+- [業績リスト]({{ site.baseurl }}{% link achievement-ja.md %})
 - [Google Scholar](http://scholar.google.co.jp/citations?user=lL_rG2gAAAAJ&hl=ja&oi=ao)
 - [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamagata:Yoriyuki)
 - [Researchmap](https://researchmap.jp/yoriyuki)
