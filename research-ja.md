@@ -1,8 +1,8 @@
 ---
 lang: ja
 layout: page
-title: 自己紹介
-last_modified: 2024-02-01 07:27:37 UTC
+title: 研究紹介
+last_modified: 2024-02-01 07:35:33 UTC
 ---
 広い意味での数理論理学およびその応用を研究してきました。最近の研究テーマは以下のようなものです。
 
