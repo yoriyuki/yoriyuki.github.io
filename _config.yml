@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Code and Contemplation
+title: Yoriyuki Yamagata 
 display_title:
-  en: Code and Contemplation
-  ja: コードと考察
+  en: Yoriyuki Yamagata
+  ja: 山形賴之
 
 email: pickle_grizzly0d@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Logic, Mathematics, Computer Science and occasionally Philosophy
 display_description:
   en: Logic, Mathematics, Computer Science and occasionally Philosophy
-  ja: 論理とか数学とかコンピューターとちょっと哲学
+  ja: 論理・数学・コンピューターと哲学
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://yoriyuki.github.io # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -5,6 +5,7 @@ lang : ja
 last_modified: 
 ---
 
-GitHub
-- [個人](https://github.com/yoriyuki)
-- [仕事](https://github.com/yoriyuki-aist/)
+
+多分OCaml用のユニコード処理ライブラリ[Camomile](https://github.com/ocaml-community/Camomile)が一番使われています。
+
+その他[Github](https://github.com/yoriyuki)リポジトリ
