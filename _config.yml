@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 display_description:
   en: Logic, Mathematics, Computer Science and occasionally Philosophy
   ja: 論理・数学・コンピューターと哲学
+lab_url: https://yamagata-lab.fuis.u-fukui.ac.jp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://yoriyuki.github.io # the base hostname & protocol for your site, e.g. http://example.com
 

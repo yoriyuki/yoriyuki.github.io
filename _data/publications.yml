@@ -1,0 +1,319 @@
+---
+- title: A GSN-Based Requirement Analysis of the EU AI Regulation
+  authors: N. Hayama, Y. Yamagata, H. Nishihara, Y. Matsuno
+  venue: SAFECOMP 2025 Workshops
+  venue_short: SAFECOMP 2025 Workshops
+  year: 2026
+  volume: LNCS 15955, pp. 183–196
+  category: sw
+  featured: true
+  doi_url: https://doi.org/10.1007/978-3-032-02018-5_14
+  preprint_url: assets/papers/2025-safecompworkshop-sassur.pdf
+- title: A Reasonable Application of the Assurance Package CAP-B to Software Package Repositories
+  authors: H. Nishihara, Y. Yamagata, Y. Matsuno
+  venue: IEEE Cyber Science and Technology Congress
+  venue_short: CyberSciTech
+  year: 2025
+  volume: pp. 154–161
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/CyberSciTech68397.2025.00027
+  preprint_url: assets/papers/2025-reasonable-application-of-assurance-package-cap-B-to-software-package-repositories.pdf
+- title: 'ARCH-COMP 2022 Category Report: Falsification with Unbounded Resources'
+  authors: G. Ernst, P. Arcaini, G. E. Fainekos, et al., Y. Yamagata, Z. Zhang
+  venue: EPiC Series in Computing
+  venue_short: ARCH-COMP 2022
+  year: 2022
+  volume: 90, pp. 204–221
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.29007/fhnk
+  preprint_url: ''
+- title: Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning
+  authors: Y. Yamagata, S. Liu, T. Akazaki, Y. Duan, J. Hao
+  venue: IEEE Transactions on Software Engineering
+  venue_short: IEEE TSE
+  year: 2021
+  volume: 47(12), pp. 2823–2840
+  category: sw
+  featured: true
+  doi_url: https://doi.org/10.1109/TSE.2020.2969178
+  preprint_url: "/assets/papers/2021-falsification-of-cyber-physical-systems-using-deep-reinforcement-learning.pdf"
+- title: Assurance Carrying Code for Software Supply Chain
+  authors: Y. Matsuno, Y. Yamagata, H. Nishihara, Y. Hosokawa
+  venue: IEEE International Symposium on Software Reliability Engineering Workshops
+  venue_short: ISSREW
+  year: 2021
+  volume: pp. 276–277
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/ISSREW53611.2021.00077
+  preprint_url: "/assets/papers/2021-assurance-carrying-code-for-software-supply-chain.pdf"
+- title: Finding repeated strings in code repositories and its applications to code-clone detection
+  authors: Y. Yamagata, F. Hervé, Y. Fujiwara, K. Inoue
+  venue: Asia-Pacific Software Engineering Conference
+  venue_short: APSEC
+  year: 2021
+  volume: pp. 497–502
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/APSEC53868.2021.00057
+  preprint_url: "/assets/papers/2021-finding-repeated-strings-in-code-repositories-and-its-applications-to-code-clone-detection.pdf"
+- title: 'ARCH-COMP 2021 Category Report: Falsification with Validation of Results'
+  authors: G. Ernst, P. Arcaini, I. Bennani, et al., Y. Yamagata, Z. Zhang
+  venue: EPiC Series in Computing
+  venue_short: ARCH-COMP 2021
+  year: 2021
+  volume: 80, pp. 133–152
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.29007/xwl1
+  preprint_url: "/assets/papers/2021-arch-comp-2021-category-report-falsification-with-validation-of-results.pdf"
+- title: 'ARCH-COMP 2020 Category Report: Falsification'
+  authors: G. Ernst, P. Arcaini, I. Bennani, et al., Y. Yamagata, Z. Zhang
+  venue: EPiC Series in Computing
+  venue_short: ARCH-COMP 2020
+  year: 2020
+  volume: 74, pp. 140–152
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.29007/TRR1
+  preprint_url: "/assets/papers/2020-arch-comp-2020-category-report-falsification.pdf"
+- title: Algebraic Approach for Confidence Evaluation of Assurance Cases
+  authors: Y. Yamagata, Y. Matsuno
+  venue: International Conference on Formal Engineering Methods
+  venue_short: ICFEM
+  series: LNCS 12531
+  year: 2020
+  volume: pp. 318–327
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-030-63406-3_20
+  preprint_url: "/assets/papers/2020-algebraic-approach-for-confidence-evaluation-of-assurance-cases.pdf"
+- title: 'ARCH-COMP 2019 Category Report: Falsification'
+  authors: G. Ernst, P. Arcaini, A. Donzé, et al., Y. Yamagata, Z. Zhang
+  venue: EPiC Series in Computing
+  venue_short: ARCH-COMP 2019
+  year: 2019
+  volume: 61, pp. 129–140
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.29007/68dk
+  preprint_url: "/assets/papers/2019-arch-comp-2019-category-report-falsification.pdf"
+- title: Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning
+  authors: T. Akazaki, S. Liu, Y. Yamagata, Y. Duan, J. Hao
+  venue: International Symposium on Formal Methods
+  venue_short: FM
+  series: LNCS 10951
+  year: 2018
+  volume: pp. 456–465
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-95582-7_27
+  preprint_url: https://arxiv.org/abs/1805.00200
+- title: Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning
+  authors: J. Inoue, Y. Yamagata, Y. Chen, C.M. Poskitt, J. Sun
+  venue: IEEE International Conference on Data Mining Workshops
+  venue_short: ICDMW
+  year: 2017
+  volume: pp. 1058–1065
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/ICDMW.2017.149
+  preprint_url: https://arxiv.org/abs/1709.05342
+- title: Log-Based Anomaly Detection of CPS Using a Statistical Method
+  authors: Y. Harada, Y. Yamagata, O. Mizuno, E. Choi
+  venue: IEEE International Workshop on Empirical Software Engineering in Practice
+  venue_short: IWESEP
+  year: 2017
+  volume: pp. 1–6
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/IWESEP.2017.12
+  preprint_url: "/assets/papers/2017-log-based-anomaly-detection-of-cps-using-a-statistical-method.pdf"
+- title: Model-Based Testing of Stateful APIs with Modbat
+  authors: C.V. Artho, M. Seidl, Q. Gros, et al., R. Ramler, Y. Yamagata
+  venue: IEEE/ACM International Conference on Automated Software Engineering
+  venue_short: ASE
+  year: 2015
+  volume: pp. 858–863
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/ASE.2015.95
+  preprint_url: ''
+- title: Domain-Specific Languages with Scala
+  authors: C.V. Artho, K. Havelund, R. Kumar, Y. Yamagata
+  venue: International Conference on Formal Engineering Methods
+  venue_short: ICFEM
+  series: LNCS 9407
+  year: 2015
+  volume: pp. 1–16
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-25423-4_1
+  preprint_url: ''
+- title: 'With an Open Mind: How to Write Good Models'
+  authors: C.V. Artho, K. Hayamizu, R. Ramler, Y. Yamagata
+  venue: International Workshop on Formal Techniques for Safety-Critical Systems
+  venue_short: FTSCS
+  series: CCIS 419
+  year: 2014
+  volume: pp. 3–18
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-05416-2_2
+  preprint_url: assets/papers/2013-with-open-mind.pdf
+- title: On the Metric Temporal Logic for Continuous Stochastic Processes
+  authors: M. Ikeda, Y. Yamagata, T. Kihara
+  venue: Logical Methods in Computer Science
+  venue_short: LMCS
+  year: 2024
+  volume: 20(2), pp. 14–35
+  category: th
+  featured: true
+  doi_url: https://doi.org/10.46298/lmcs-20(2:14)2024
+  preprint_url: https://arxiv.org/abs/2210.01380
+- title: Operational Semantics of Process Monitors
+  authors: J. Inoue, Y. Yamagata
+  venue: International Conference on Runtime Verification
+  venue_short: RV
+  series: LNCS 10548
+  year: 2017
+  volume: pp. 403–409
+  category: th
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-67531-2_26
+  preprint_url: https://arxiv.org/abs/1705.05137
+- title: Runtime Monitoring for Concurrent Systems
+  authors: Y. Yamagata, C.V. Artho, M. Hagiya, et al., Y. Tanabe, M. Yamamoto
+  venue: International Conference on Runtime Verification
+  venue_short: RV
+  series: LNCS 10012
+  year: 2016
+  volume: pp. 386–403
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-46982-9_24
+  preprint_url: "/assets/papers/2016-runtime-monitoring-for-concurrent-systems.pdf"
+- title: Cardinality of UDP Transmission Outcomes
+  authors: F. Weitl, N. Sebih, C.V. Artho, et al., Y. Yamagata, M. Yamamoto
+  venue: 'International Symposium on Dependable Software Engineering: Theories, Tools, and Applications'
+  venue_short: SETTA
+  series: LNCS 9409
+  year: 2015
+  volume: pp. 120–134
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/978-3-319-25942-0_8
+  preprint_url: ''
+- title: Evaluation of A Resilience Embedded System Using Probabilistic Model-Checking
+  authors: L. Fang, Y. Yamagata, Y. Oiwa
+  venue: International Workshop on Engineering Safety and Security Systems
+  venue_short: ESSS
+  series: EPTCS 150
+  year: 2014
+  volume: pp. 35–49
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.4204/EPTCS.150.4
+  preprint_url: https://arxiv.org/abs/1405.1703
+- title: A formal semantics of extended hierarchical state transition matrices using CSP#
+  authors: Y. Yamagata, W. Kong, A. Fukuda, et al., H. Ohsaki, K. Taguchi
+  venue: Formal Aspects of Computing
+  venue_short: Formal Aspects of Computing
+  year: 2014
+  volume: 26(5), pp. 943–962
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1007/s00165-013-0282-7
+  preprint_url: "/assets/papers/2014-a-formal-semantics-of-extended-hierarchical-state-transition-matrices-using-csp.pdf"
+- title: On Accelerating SMT-based Bounded Model Checking of HSTM Designs
+  authors: W. Kong, L. Liu, Y. Yamagata, et al., H. Ohsaki, A. Fukuda
+  venue: Asia-Pacific Software Engineering Conference
+  venue_short: APSEC
+  year: 2012
+  volume: 1, pp. 614–623
+  category: sw
+  featured: false
+  doi_url: https://doi.org/10.1109/APSEC.2012.38
+  preprint_url: ''
+- title: On Proving Consistency of Equational Theories in Bounded Arithmetic
+  authors: A. Beckmann, Y. Yamagata
+  venue: Journal of Symbolic Logic
+  venue_short: J. Symbolic Logic
+  year: 2025
+  volume: 90(1), pp. 135–165
+  category: ma
+  featured: true
+  doi_url: https://doi.org/10.1017/jsl.2025.6
+  preprint_url: https://arxiv.org/abs/2203.04832
+- title: Consistency Proof of a Fragment of PV with Substitution in Bounded Arithmetic
+  authors: Y. Yamagata
+  venue: Journal of Symbolic Logic
+  venue_short: J. Symbolic Logic
+  year: 2018
+  volume: 83(3), pp. 1063–1090
+  category: ma
+  featured: false
+  doi_url: https://doi.org/10.1017/jsl.2018.14
+  preprint_url: https://arxiv.org/abs/1411.7087
+- title: Bounded Arithmetic in Free Logic
+  authors: Y. Yamagata
+  venue: Logical Methods in Computer Science
+  venue_short: LMCS
+  year: 2012
+  volume: 8(3), p. 8
+  category: ma
+  featured: false
+  doi_url: https://doi.org/10.2168/lmcs-8(3:7)2012
+  preprint_url: https://arxiv.org/abs/1201.3733
+- title: A sequent calculus for limit computable mathematics
+  authors: S. Berardi, Y. Yamagata
+  venue: Annals of Pure and Applied Logic
+  venue_short: Ann. Pure Appl. Logic
+  year: 2008
+  volume: 153(1-3), pp. 111–126
+  category: ma
+  featured: false
+  doi_url: https://doi.org/10.1016/j.apal.2008.01.006
+  preprint_url: "/assets/papers/2008-a-sequent-calculus-for-limit-computable-mathematics.pdf"
+- title: Strong normalization of the second-order symmetric λμ-calculus
+  authors: Y. Yamagata
+  venue: Information and Computation
+  venue_short: Inf. & Comput.
+  year: 2004
+  volume: 193(1), pp. 1–20
+  category: th
+  featured: false
+  doi_url: https://doi.org/10.1016/j.ic.2004.04.002
+  preprint_url: "/assets/papers/2004-strong-normalization-of-the-second-order-symmetric-lambda-mu-calculus.pdf"
+- title: Strong normalization of a symmetric lambda calculus for second-order classical logic
+  authors: Y. Yamagata
+  venue: Archive for Mathematical Logic
+  venue_short: Arch. Math. Logic
+  year: 2002
+  volume: 41(1), pp. 91–99
+  category: th
+  featured: false
+  doi_url: https://doi.org/10.1007/s001530200007
+  preprint_url: "/assets/papers/2002-strong-normalization-of-a-symmetric-lambda-calculus-for-second-order-classical-logic.pdf"
+- title: Strong Normalization of Second Order Symmetric Lambda-mu Calculus
+  authors: Y. Yamagata
+  venue: Theoretical Aspects of Computer Software
+  venue_short: TACS 2001
+  year: 2001
+  volume: 2215, pp. 459–467
+  category: th
+  featured: false
+  doi_url: https://doi.org/10.1007/3-540-45500-0_23
+  preprint_url: "/assets/papers/2001-strong-normalization-of-second-order-symmetric-lambda-mu-calculus.pdf"
+- title: Individual-based epidemiological model of COVID19 using location data
+  authors: Y. Yamagata, S. Takami, K. Yamazaki, T. Nakaya, M. Onishi
+  venue: IEEE International Conference on Big Data
+  venue_short: IEEE BigData
+  year: 2022
+  volume: pp. 4434–4442
+  category: other
+  featured: false
+  doi_url: https://doi.org/10.1109/BigData55660.2022.10020242
+  preprint_url: "/assets/papers/2022-individual-based-epidemiological-model-of-covid19-using-location-data.pdf"

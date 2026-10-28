@@ -1,0 +1,25 @@
+{%- assign pubs = site.data.publications | sort: "year" | reverse -%}
+<ul class="publication-list">
+{%- for pub in pubs %}
+  {%- assign doi_href = "" -%}
+  {%- if pub.doi_url and pub.doi_url != "#" -%}{%- assign doi_href = pub.doi_url -%}{%- endif -%}
+  {%- assign preprint_href = "" -%}
+  {%- if pub.preprint_url and pub.preprint_url != "" and pub.preprint_url != "#" -%}
+    {%- assign preprint_href = pub.preprint_url -%}
+    {%- unless preprint_href contains "://" -%}
+      {%- assign first = preprint_href | slice: 0 -%}
+      {%- if first == "/" -%}
+        {%- assign preprint_href = site.lab_url | append: preprint_href -%}
+      {%- else -%}
+        {%- assign preprint_href = site.lab_url | append: "/" | append: preprint_href -%}
+      {%- endif -%}
+    {%- endunless -%}
+  {%- endif %}
+  <li>
+    {% if doi_href != "" %}<a href="{{ doi_href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}.
+    {{ pub.authors }}.
+    <em>{{ pub.venue }}</em>{% if pub.series %}, {{ pub.series }}{% endif %}{% if pub.volume %}, {{ pub.volume }}{% endif %}, {{ pub.year }}.
+    {%- if preprint_href != "" %} [<a href="{{ preprint_href }}">{{ include.preprint_label }}</a>]{% endif %}
+  </li>
+{%- endfor %}
+</ul>
