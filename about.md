@@ -12,7 +12,7 @@ Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.md %}) if you
 
 I enjoy playing the piano, reading and watching anime.
 
-These days I'm practicing Bach's Inventions on the piano. I also play other classical pieces and film and anime scores such as the soundtrack of Violet Evergarden. (Though I should warn you: pieces I'm not actively practicing fade fast, so please don't ask me to play on the spot!)
+These days I'm practicing Bach's Inventions on the piano. I also play film and anime scores such as the soundtrack of Violet Evergarden. I like Bach, but lately I've been having more fun with pop and contemporary pieces. (Though I should warn you: pieces I'm not actively practicing fade fast, so please don't ask me to play on the spot!)
 
 I read philosophy, history, nonfiction, novels and manga.
 
