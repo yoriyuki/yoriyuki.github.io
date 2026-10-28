@@ -109,7 +109,7 @@ mastodon:
     - instance: 'mathstodon.xyz'
       username: 'yoriyuki'
   ja:
-    - instance: 'mastodon.social'
-      username: 'yoriyuki'
+    - instance: 'mathtod.online'
+      username: 'yoriyukiy'
 
 github_username: 'yoriyuki'

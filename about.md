@@ -10,5 +10,4 @@ Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.md %}) if you
 
 - E-mail: pickle_grizzly0d@icloud.com
 - Mastodon (mostly about math.): @yoriyuki@mathstodon.xyz
-- Github(personal): [yoriyuki](https://github.com/yoriyuki)
-- Github(job): [yoriyuki-aist](https://github.com/yoriyuki-aist)
+- Github: [yoriyuki](https://github.com/yoriyuki)

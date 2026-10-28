@@ -6,7 +6,7 @@ last_modified: 2024-03-27 13:03:07 UTC
 ---
 
 ## SNS
-- Mastodon(日本語): @yoriyuki@mathstodon.social
+- Mastodon(日本語): @yoriyukiy@mathtod.online
 - Mastodon(英語・数学中心): @yoriyuki@mathstodon.xyz
 
 ## リンク
