@@ -9,6 +9,6 @@ list_title: Recent post
 
 ## Introduction
 
-Hi, I'm a computer scientist working a certain government institute in Japan.
-Here, I talk about mathematics, logic, computer scientist and occasionally philosophy.
+Hi, I'm an associate professor at the Department of Engineering, University of Fukui.
+Here, I talk about logic, mathematics, computer science and occasionally philosophy.
 Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.md %}) if you can read Japanese.
