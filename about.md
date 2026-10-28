@@ -4,11 +4,23 @@ layout: page
 title: About
 last_modified: 2023-11-20 14:29:04 UTC
 ---
-Hi, I'm an associate professor at the Department of Engineering, University of Fukui.
+Hi, I'm an associate professor at the Department of Engineering, University of Fukui ([work page]({{ site.lab_url }}/en/)).
 Here, I talk about logic, mathematics, computer science and occasionally philosophy.
 Please also see [Japanese site]({{ site.baseurl }}{% link index-ja.md %}) if you can read Japanese.
 
-- E-mail: pickle_grizzly0d@icloud.com
+## Hobbies
+
+I enjoy playing the piano, reading and watching anime.
+
+These days I'm practicing Bach's Inventions on the piano. I also play other classical pieces and film and anime scores such as the soundtrack of Violet Evergarden. (Though I should warn you: pieces I'm not actively practicing fade fast, so please don't ask me to play on the spot!)
+
+I read philosophy, history, nonfiction, novels and manga.
+
+## Elsewhere
+
 - Mastodon (mostly about math.): @yoriyuki@mathstodon.xyz
-- Github: [yoriyuki](https://github.com/yoriyuki)
-- [Work page]({{ site.lab_url }}/en/)
+- GitHub: [yoriyuki](https://github.com/yoriyuki)
+
+## Contact
+
+E-mail: pickle_grizzly0d@icloud.com
