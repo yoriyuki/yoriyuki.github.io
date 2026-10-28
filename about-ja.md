@@ -5,8 +5,6 @@ title: 自己紹介
 last_modified: 2024-03-27 13:03:07 UTC
 ---
 
-福井大学学術研究院工学系部門の准教授です。研究のことは[研究室のページ]({{ site.lab_url }})に、論文は[学術論文]({{ site.baseurl }}{% link papers-ja.md %})にまとめています。
-
 ## 趣味
 
 ピアノと読書、それにアニメを見ることです。
@@ -21,6 +19,7 @@ last_modified: 2024-03-27 13:03:07 UTC
 
 ## リンク
 
+- [仕事用のページ]({{ site.lab_url }})
 - GitHub: [yoriyuki](https://github.com/yoriyuki)
 
 ## 連絡先
