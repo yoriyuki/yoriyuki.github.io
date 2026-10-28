@@ -7,7 +7,7 @@ last_modified:
 
 Version of June 21, 2023
 
-*This is an English version of the Japanese original. Quotations are my translations from the Japanese editions cited.*
+*This English version is a machine translation of the Japanese original, made with Claude (Anthropic). Quotations were translated from the Japanese editions cited, so they are translations of translations; if you quote them, please use the original texts or their published translations.*
 
 
 In his book *After Finitude* [1], Quentin Meillassoux claims that "correlationism" pervades modern and contemporary philosophy, and as a critique of it he raises "the problem of ancestrality" (Chapter 1). Meillassoux holds that correlationism interprets science fictionalistically (ibid., p. 29). In this essay, I take Meillassoux's argument as pointing out a difficulty that arises when "ancestral statements" are interpreted fictionalistically. And I hold that this difficulty lies not in the temporal "distance" of ancestral statements (ibid., p. 37), but in the fact that science envisages the possibility that the "donation" of the given (ibid., p. 40) might not have been realized.
