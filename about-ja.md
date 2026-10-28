@@ -25,5 +25,3 @@ last_modified: 2024-03-27 13:03:07 UTC
 ## 連絡先
 
 E-mail: pickle_grizzly0d@icloud.com
-
-仕事に関しては yoriyuki@u-fukui.ac.jp にご連絡ください

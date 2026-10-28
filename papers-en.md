@@ -1,5 +1,5 @@
 ---
-title: Academic papers
+title: Publications
 lang: en
 last_modified: 2023-11-29 08:40:53 UTC
 layout: page
@@ -11,10 +11,6 @@ layout: page
 - [Researchmap](https://researchmap.jp/yoriyuki?lang=en)
 - [ORCID](https://orcid.org/0000-0003-2096-677X)
 
-Patents are listed on [IP]({{ site.lab_url }}/en/ip/) on my lab's site.
-
 ## Papers
-
-The same list as [Publications]({{ site.lab_url }}/en/publications/) on my lab's site, newest first.
 
 {% include publication-list.html preprint_label="Author PDF" %}
