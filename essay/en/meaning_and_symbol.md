@@ -7,7 +7,7 @@ last_modified:
 
 Version of July 5, 2023
 
-*This English version is a machine translation of the Japanese original, made with Claude (Anthropic). Quotations were translated from the Japanese editions cited, so they are translations of translations; if you quote them, please use the original texts or their published translations.*
+*This English version is a machine translation of the Japanese original, made with Claude (Anthropic). Quotations were translated from the Japanese editions cited, so they are translations of translations and do not match the original texts or their published English translations.*
 
 In this essay I argue that language is not a system of signs. To this end, I present an argument that reconstructs the "remarks" in the opening part of Wittgenstein's *Philosophical Investigations*, and I criticize semiotics, in particular Umberto Eco's theory of signs.
 
