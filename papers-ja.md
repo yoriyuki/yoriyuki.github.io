@@ -8,6 +8,10 @@ last_modified:
 
 - [Google Scholar](http://scholar.google.co.jp/citations?user=lL_rG2gAAAAJ&hl=ja&oi=ao)
 - [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamagata:Yoriyuki)
+- [Researchmap](https://researchmap.jp/yoriyuki)
+- [ORCID](https://orcid.org/0000-0003-2096-677X)
+
+特許は研究室のページの[知財]({{ site.lab_url }}/ip/)にあります。
 
 ## 論文
 
