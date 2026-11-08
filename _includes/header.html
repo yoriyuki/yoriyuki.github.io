@@ -25,6 +25,11 @@
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          {%- if page.lang == "ja" -%}
+            <a class="page-link" href="{{ site.landing_page.en | relative_url }}" hreflang="en" lang="en">English</a>
+          {%- elsif page.lang == "en" -%}
+            <a class="page-link" href="{{ site.landing_page.ja | relative_url }}" hreflang="ja" lang="ja">日本語</a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}
