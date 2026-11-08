@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if page.lang == "ja" -%}
+    {%- assign share_label = "共有" -%}
+    {%- assign copied_label = "URLをコピーしました" -%}
+  {%- else -%}
+    {%- assign share_label = "Share" -%}
+    {%- assign copied_label = "Link copied" -%}
+  {%- endif %}
+  <style>
+    .post-share { margin-top: 30px; }
+    .post-share-button { font: inherit; font-size: 0.9em; padding: 4px 14px; border: 1px solid #828282; border-radius: 4px; background: transparent; color: inherit; cursor: pointer; }
+    .post-share-button:hover { border-color: #2a7ae2; color: #2a7ae2; }
+    .post-share-status { margin-left: 10px; font-size: 0.9em; color: #828282; word-break: break-all; }
+  </style>
+  <div class="post-share">
+    <button type="button" class="post-share-button" data-url="{{ page.url | absolute_url }}" data-title="{{ page.title | escape }}" data-copied="{{ copied_label }}">{{ share_label }}</button>
+    <span class="post-share-status" aria-live="polite"></span>
+  </div>
+  <script>
+    (function () {
+      var button = document.querySelector('.post-share-button');
+      var status = document.querySelector('.post-share-status');
+      if (!button || !status) return;
+      var url = button.getAttribute('data-url');
+      var title = button.getAttribute('data-title');
+      var copied = button.getAttribute('data-copied');
+      function showUrl() { status.textContent = url; }
+      button.addEventListener('click', function () {
+        if (navigator.share) {
+          navigator.share({ title: title, url: url }).catch(function () {});
+          return;
+        }
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(url).then(function () { status.textContent = copied; }, showUrl);
+        } else {
+          showUrl();
+        }
+      });
+    })();
+  </script>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
