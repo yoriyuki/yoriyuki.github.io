@@ -9,4 +9,4 @@ layout: page
 - [{{ sw.name }}]({{ sw.url }}): {{ sw.description_en | default: sw.description | strip }}
 {% endfor %}
 
-Other repositories are on [GitHub](https://github.com/yoriyuki).
+Other personal projects are on [GitHub](https://github.com/yoriyuki). For work projects, see my [work page]({{ site.lab_url }}/en/).

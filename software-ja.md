@@ -12,4 +12,4 @@ last_modified:
 - [{{ sw.name }}]({{ sw.url }}): {{ sw.description | strip }}
 {% endfor %}
 
-その他のリポジトリは[GitHub](https://github.com/yoriyuki)にあります。
+その他の個人プロジェクトは[GitHub](https://github.com/yoriyuki)にあります。仕事で作っているものは[仕事用のページ]({{ site.lab_url }})をご覧ください。
