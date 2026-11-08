@@ -1,0 +1,28 @@
+#!/bin/bash
+set -e
+
+now=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR -z -- '*.md' '*.html' |
+while IFS= read -r -d '' f; do
+  [ -f "$f" ] || continue
+
+  has_key=$(awk 'NR == 1 { if ($0 !~ /^---[[:space:]]*$/) exit; next }
+                 /^---[[:space:]]*$/ { exit }
+                 /^last_modified:/ { print "yes"; exit }' "$f")
+  [ "$has_key" = yes ] || continue
+
+  if ! git diff --quiet -- "$f"; then
+    echo "pre-commit: $f has unstaged changes; last_modified left as is" >&2
+    continue
+  fi
+
+  tmp=$(mktemp "${TMPDIR:-/tmp}/last_modified.XXXXXX")
+  awk -v now="$now" 'NR == 1 { print; infm = 1; next }
+                     infm && /^---[[:space:]]*$/ { infm = 0 }
+                     infm && /^last_modified:/ { print "last_modified: " now; next }
+                     { print }' "$f" > "$tmp"
+  cat "$tmp" > "$f"
+  rm -f "$tmp"
+  git add -- "$f"
+done
