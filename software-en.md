@@ -5,9 +5,8 @@ last_modified:
 layout: page
 ---
 
-{% assign repos = site.github.public_repositories | where_exp: "repo", "repo.fork == false" | sort: "stargazers_count" | reverse %}
-{% for repo in repos limit: 5 -%}
-- [{{ repo.name }}]({{ repo.html_url }}){% if repo.description %}: {{ repo.description }}{% endif %}
+{% for sw in site.data.software -%}
+- [{{ sw.name }}]({{ sw.url }}): {{ sw.description_en | default: sw.description | strip }}
 {% endfor %}
 
 Other repositories are on [GitHub](https://github.com/yoriyuki).
