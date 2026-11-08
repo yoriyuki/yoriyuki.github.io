@@ -6,12 +6,12 @@
   description_en: 'A Unicode library for OCaml, providing character encoding conversion, normalization, collation, and other internationalization features. Widely used in the OCaml ecosystem.
 
     '
-  url: https://github.com/yoriyuki/Camomile
+  url: https://github.com/ocaml-community/Camomile
 - name: PGSN
-  description: 'アシュアランスケースの図式記法GSNを操作するための純粋関数型プログラミング言語。演算順序に結果がよらない性質や、出力の妥当性が型システムにより保証されるなどの特長をもちます。
+  description: 'アシュアランスケースの図式記法GSNを操作するための純粋関数型プログラミング言語。演算順序に結果がよらない性質をもちます。
 
     '
-  description_en: 'A purely functional programming language for manipulating GSN (Goal Structured Notation), the diagrammatic notation used to write assurance cases. Evaluation order does not affect results, and the type system guarantees the validity of its output.
+  description_en: 'A purely functional programming language for manipulating GSN (Goal Structured Notation), the diagrammatic notation used to write assurance cases. Evaluation order does not affect results.
 
     '
   url: https://github.com/yamagata-lab/PGSN
@@ -22,4 +22,5 @@
   description_en: 'A graphical editor for PGSN, allowing GSN diagrams to be created and edited visually in the browser. Published as the result of the undergraduate thesis "Development of a Graphical Editor for Programmable GSN" (AY2025).
 
     '
-  url: https://pgsn-editor-app.web.app
+  url: https://github.com/rererenore-118/gsnpaint
+  try_url: https://pgsn-editor-app.web.app
