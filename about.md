@@ -2,7 +2,7 @@
 lang: en
 layout: page
 title: About
-last_modified: 2023-11-20 14:29:04 UTC
+last_modified: 2026-10-28 15:18:55 UTC
 ---
 Hi, I'm an associate professor at the Department of Engineering, University of Fukui ([work page]({{ site.lab_url }}/en/)).
 Here, I talk about logic, mathematics, computer science and occasionally philosophy.

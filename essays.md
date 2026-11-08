@@ -2,7 +2,7 @@
 title: Essays
 layout: page
 lang: en
-last_modified:
+last_modified: 2026-10-28 15:50:38 UTC
 ---
 Writings, mostly on philosophy. There are many parts I am not very happy with, but I am putting them here for now. I hope they are of some use to you.
 

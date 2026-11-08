@@ -2,7 +2,7 @@
 lang: ja
 layout: page
 title: 科学に関する虚構主義と祖先以前性の問題
-last_modified: 2023-11-20 14:29:04 UTC
+last_modified: 2023-11-26 23:16:35 UTC
 ---
 
 2023年6月21日版

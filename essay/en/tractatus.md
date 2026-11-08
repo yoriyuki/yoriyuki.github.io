@@ -2,7 +2,7 @@
 lang: en
 layout: page
 title: The Mechanism of Meaning-Generation in Wittgenstein's Tractatus Logico-Philosophicus
-last_modified:
+last_modified: 2026-10-28 15:51:51 UTC
 ---
 Version of May 19, 2023
 

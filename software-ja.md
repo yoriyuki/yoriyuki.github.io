@@ -2,7 +2,7 @@
 layout: page
 title: ソフトウェア
 lang : ja
-last_modified: 
+last_modified: 2026-11-08 01:45:30 UTC
 ---
 
 

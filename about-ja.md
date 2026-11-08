@@ -2,7 +2,7 @@
 lang: ja
 layout: page
 title: 自己紹介
-last_modified: 2024-03-27 13:03:07 UTC
+last_modified: 2026-10-28 15:18:20 UTC
 ---
 
 福井大学学術研究院工学系部門の准教授です（[仕事用のページ]({{ site.lab_url }})）。論理や数学や計算機科学、ときどき哲学の話をします。

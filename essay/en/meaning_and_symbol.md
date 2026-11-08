@@ -2,7 +2,7 @@
 lang: en
 layout: page
 title: Meaning and Signs
-last_modified:
+last_modified: 2026-10-28 15:51:51 UTC
 ---
 
 Version of July 5, 2023

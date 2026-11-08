@@ -2,7 +2,7 @@
 title: 書き物
 layout: page
 lang: ja
-last_modified:
+last_modified: 2025-03-18 02:12:06 UTC
 ---
 主に哲学関係の書き物です。あまり気に入っていない部分も多いですがとりあえず置いておきます。何かの参考にしてください。
 
