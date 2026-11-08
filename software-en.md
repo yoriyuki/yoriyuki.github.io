@@ -1,7 +1,6 @@
 ---
 title: Software
 lang: en
-last_modified: 2026-11-08 01:45:30 UTC
 layout: page
 ---
 

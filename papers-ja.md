@@ -2,7 +2,6 @@
 title: 出版物リスト
 layout: page
 lang: ja
-last_modified: 2026-10-28 15:12:19 UTC
 ---
 ## 外部リスト
 
